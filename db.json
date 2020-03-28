@@ -1,0 +1,78 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "title": "Interstellar",
+            "year": "2014",
+            "director": "Christopher Nolan",
+            "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+            "actorsId": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Inception",
+            "year": "2010",
+            "director": "Christopher Nolan",
+            "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "actorsId": [
+                3,
+                4
+            ]
+        },
+        {
+            "id": 3,
+            "title": "A Beautiful Mind",
+            "year": "2002",
+            "director": "Ron Howard",
+            "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+            "actorsId": [
+                5,
+                6
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Shutter Island",
+            "year": "2010",
+            "director": "Martin Scorsese",
+            "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+            "actorsId": [
+                3,
+                8
+            ]
+        }
+    ],
+    "actors": [
+        {
+            "id": 1,
+            "name": "Matthew McConaughey"
+        },
+        {
+            "id": 2,
+            "name": "Anne Hathaway"
+        },
+        {
+            "id": 3,
+            "name": "Leonardo DiCaprio"
+        },
+        {
+            "id": 4,
+            "name": "Joseph Gordon-Levitt"
+        },
+        {
+            "id": 5,
+            "name": "Russell Crowe"
+        },
+        {
+            "id": 6,
+            "name": "Ed Harris"
+        },
+        {
+            "id": 8,
+            "name": "Emily Mortimer"
+        }
+    ]
+}
