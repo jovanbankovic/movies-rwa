@@ -6,7 +6,7 @@
             "year": "2014",
             "director": "Christopher Nolan",
             "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
-            "actorsId": [
+            "actors": [
                 1,
                 2
             ]
@@ -17,7 +17,7 @@
             "year": "2010",
             "director": "Christopher Nolan",
             "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-            "actorsId": [
+            "actors": [
                 3,
                 4
             ]
@@ -28,7 +28,7 @@
             "year": "2002",
             "director": "Ron Howard",
             "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
-            "actorsId": [
+            "actors": [
                 5,
                 6
             ]
@@ -39,7 +39,7 @@
             "year": "2010",
             "director": "Martin Scorsese",
             "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
-            "actorsId": [
+            "actors": [
                 3,
                 8
             ]
